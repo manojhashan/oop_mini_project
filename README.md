@@ -1,3 +1,5 @@
+
+<img src="">
 🚀 <b>Excited to share my latest project!</b> 🚀
 
 I've developed a simple notepad application using object-oriented programming (OOP) concepts in C++. This project has been a fantastic journey, allowing me to deepen my understanding of C++ and OOP principles such as encapsulation, inheritance, and polymorphism.
